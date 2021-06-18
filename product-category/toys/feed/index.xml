@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Toys &#8211; Apptakdemo1</title>
-	<atom:link href="/https://muhammadfuzail.github.io/ApptakTestDemoSite/product-category/toys/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
+	<atom:link href="https://muhammadfuzail.github.io/ApptakTestDemoSite/product-category/toys/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 14 Jun 2017 08:50:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>iPhone Dock</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/iphone-dock/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/iphone-dock/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/iphone-dock/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/iphone-dock/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 14 Jun 2017 08:50:29 +0000</pubDate>
 				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart/?post_type=product&#038;p=50</guid>
 
 					<description><![CDATA[Consequat a scelerisque suspendisse vel et eget eu vitae adipiscing nibh scelerisque semper cum adipiscing facilisis adipiscing est accumsan lorem vestibulum.]]></description>
-										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-o-content-top vc_row-flex">			<link rel="stylesheet" id="wd-section-title-css" href="/https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=6.0.4" type="text/css" media="all" /> 			<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1492614290511"><div class="wpb_wrapper">		
-		<div id="wd-60cc8790d9911" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left ">
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-o-content-top vc_row-flex">			<link rel="stylesheet" id="wd-section-title-css" href="https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=6.0.4" type="text/css" media="all" /> 			<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1492614290511"><div class="wpb_wrapper">		
+		<div id="wd-60cc8c79c4ce2" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left ">
 			
 			<div class="liner-continer">
 				<h4 class="woodmart-title-container title  wd-font-weight- wd-fontsize-l" >VESTIBULUM TEMPUS METUS</h4>
@@ -66,20 +66,20 @@
 	<div  class="wpb_single_image wpb_content_element vc_align_left vc_custom_1497429162820">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="800" src="/https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/uploads/2017/06/wood-product-paceholder.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="800" src="https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/uploads/2017/06/wood-product-paceholder.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div  class="wpb_single_image wpb_content_element vc_align_left vc_custom_1497429171774">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="800" src="/https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/uploads/2017/06/wood-product-paceholder.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="800" src="https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/uploads/2017/06/wood-product-paceholder.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
 		</figure>
 	</div>
 </div></div></div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/iphone-dock/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/iphone-dock/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

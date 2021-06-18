@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Lighting &#8211; Apptakdemo1</title>
-	<atom:link href="/https://muhammadfuzail.github.io/ApptakTestDemoSite/product-category/lighting/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
+	<atom:link href="https://muhammadfuzail.github.io/ApptakTestDemoSite/product-category/lighting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 02 Aug 2018 07:08:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Crimson Palms Hotel</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/crimson-palms-hotel/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/crimson-palms-hotel/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/crimson-palms-hotel/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/crimson-palms-hotel/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 02 Aug 2018 07:08:25 +0000</pubDate>
 				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart/demos/?post_type=product&#038;p=1716</guid>
 
 					<description><![CDATA[Consequat a scelerisque suspendisse vel et eget eu vitae adipiscing nibh scelerisque semper cum adipiscing facilisis adipiscing est accumsan lorem vestibulum. Aliquet mus a aptent ullam corper metus accumsan. Habitasse a purus nec ipsum a urna ac ullamcorper varius metus blandit posuere.]]></description>
-										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid vc_row-o-content-top vc_row-flex">			<link rel="stylesheet" id="wd-section-title-css" href="/https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=6.0.4" type="text/css" media="all" /> 			<div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-8"><div class="vc_column-inner vc_custom_1532433256788"><div class="wpb_wrapper">		
-		<div id="wd-60cc86d3dc1b3" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532355527480">
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid vc_row-o-content-top vc_row-flex">			<link rel="stylesheet" id="wd-section-title-css" href="https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=6.0.4" type="text/css" media="all" /> 			<div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-8"><div class="vc_column-inner vc_custom_1532433256788"><div class="wpb_wrapper">		
+		<div id="wd-60cc8bc30de98" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532355527480">
 			
 			<div class="liner-continer">
 				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-m" >The history of our hotel</h4>
@@ -47,8 +47,8 @@
 
 		</div>
 	</div>
-<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1532346192176 vc_row-has-fill">			<link rel="stylesheet" id="wd-list-css" href="/https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/themes/woodmart/css/parts/el-list.min.css?ver=6.0.4" type="text/css" media="all" /> 			<div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1532346102929"><div class="wpb_wrapper">
-		<div class="wd-list wd-wpb color-scheme- wd-fontsize-xs wd-list-type-icon wd-list-style-default vc_custom_1532354025019" id="wd-60cc86d3dcf65">
+<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1532346192176 vc_row-has-fill">			<link rel="stylesheet" id="wd-list-css" href="https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/themes/woodmart/css/parts/el-list.min.css?ver=6.0.4" type="text/css" media="all" /> 			<div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1532346102929"><div class="wpb_wrapper">
+		<div class="wd-list wd-wpb color-scheme- wd-fontsize-xs wd-list-type-icon wd-list-style-default vc_custom_1532354025019" id="wd-60cc8bc30ebb3">
 			<ul>
 														<li>
 													<div class="list-icon typcn typcn-media-record"></div>
@@ -62,7 +62,7 @@
 					</div>
 		
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1532346106600"><div class="wpb_wrapper">
-		<div class="wd-list wd-wpb color-scheme- wd-fontsize-xs wd-list-type-icon wd-list-style-default vc_custom_1532331409114" id="wd-60cc86d3dd3b4">
+		<div class="wd-list wd-wpb color-scheme- wd-fontsize-xs wd-list-type-icon wd-list-style-default vc_custom_1532331409114" id="wd-60cc8bc30eff9">
 			<ul>
 														<li>
 													<div class="list-icon typcn typcn-media-record"></div>
@@ -76,7 +76,7 @@
 					</div>
 		
 		</div></div></div></div>		
-		<div id="wd-60cc86d3dd63f" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532357642044">
+		<div id="wd-60cc8bc30f2aa" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532357642044">
 			
 			<div class="liner-continer">
 				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-m" >Special features</h4>
@@ -86,7 +86,7 @@
 					</div>
 		
 		<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1532353581133 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1532348331583"><div class="wpb_wrapper">
-		<div class="wd-list wd-wpb color-scheme- wd-fontsize-xs wd-list-type-icon wd-list-style-default vc_custom_1532417257776" id="wd-60cc86d3ddc6a">
+		<div class="wd-list wd-wpb color-scheme- wd-fontsize-xs wd-list-type-icon wd-list-style-default vc_custom_1532417257776" id="wd-60cc8bc30f8b1">
 			<ul>
 														<li>
 													<div class="list-icon typcn typcn-tick"></div>
@@ -108,7 +108,7 @@
 					</div>
 		
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1532348334726"><div class="wpb_wrapper">
-		<div class="wd-list wd-wpb color-scheme- wd-fontsize-xs wd-list-type-icon wd-list-style-default vc_custom_1532417231239" id="wd-60cc86d3de07a">
+		<div class="wd-list wd-wpb color-scheme- wd-fontsize-xs wd-list-type-icon wd-list-style-default vc_custom_1532417231239" id="wd-60cc8bc30fcf7">
 			<ul>
 														<li>
 													<div class="list-icon typcn typcn-tick"></div>
@@ -130,7 +130,7 @@
 					</div>
 		
 		</div></div></div></div>		
-		<div id="wd-60cc86d3de309" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532357692750">
+		<div id="wd-60cc8bc30ff8b" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532357692750">
 			
 			<div class="liner-continer">
 				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-m" >Our services</h4>
@@ -140,14 +140,14 @@
 					</div>
 		
 		<div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-content-top vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3de8c4" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
+				<div id="wd-60cc8bc310554" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
 																	<div class="info-svg-wrapper info-icon" style="width: 60px;height: 60px;"><svg version="1.1" id="trevel-infobox-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 94 75" style="enable-background:new 0 0 94 75;" xml:space="preserve">
-<path id="svg-8485" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
+<path id="svg-2088" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
 	l0,0C44,36.2,55.2,25,69,25z"/>
 <path id="img" style="fill:#74BFFE;" d="M77.8,24.9L73,40.1v7.5c0,3.6-2.9,6.5-6.5,6.4H6.5C2.9,54,0,51.1,0,47.6V27
 	c0-2.5,1.5-4.7,3.7-5.8L10,3.5c0.9-2.7,3.8-4.1,6.5-3.2l57.8,18.3C77,19.3,78.6,22.1,77.8,24.9C77.8,24.9,77.8,24.9,77.8,24.9z
@@ -177,14 +177,14 @@
 									</div>
 			</div>
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3df2e7" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
+				<div id="wd-60cc8bc310f99" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
 																	<div class="info-svg-wrapper info-icon" style="width: 60px;height: 60px;"><svg version="1.1" id="trevel-infobox-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 94 75" style="enable-background:new 0 0 94 75;" xml:space="preserve">
-<path id="svg-2350" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
+<path id="svg-9040" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
 	l0,0C44,36.2,55.2,25,69,25z"/>
 <path id="img" style="fill:#74BFFE;" d="M77.8,24.9L73,40.1v7.5c0,3.6-2.9,6.5-6.5,6.4H6.5C2.9,54,0,51.1,0,47.6V27
 	c0-2.5,1.5-4.7,3.7-5.8L10,3.5c0.9-2.7,3.8-4.1,6.5-3.2l57.8,18.3C77,19.3,78.6,22.1,77.8,24.9C77.8,24.9,77.8,24.9,77.8,24.9z
@@ -214,14 +214,14 @@
 									</div>
 			</div>
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3df816" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
+				<div id="wd-60cc8bc3114ab" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
 																	<div class="info-svg-wrapper info-icon" style="width: 60px;height: 60px;"><svg version="1.1" id="trevel-infobox-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 94 75" style="enable-background:new 0 0 94 75;" xml:space="preserve">
-<path id="svg-1724" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
+<path id="svg-3241" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
 	l0,0C44,36.2,55.2,25,69,25z"/>
 <path id="img" style="fill:#74BFFE;" d="M77.8,24.9L73,40.1v7.5c0,3.6-2.9,6.5-6.5,6.4H6.5C2.9,54,0,51.1,0,47.6V27
 	c0-2.5,1.5-4.7,3.7-5.8L10,3.5c0.9-2.7,3.8-4.1,6.5-3.2l57.8,18.3C77,19.3,78.6,22.1,77.8,24.9C77.8,24.9,77.8,24.9,77.8,24.9z
@@ -251,14 +251,14 @@
 									</div>
 			</div>
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3dfcc1" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
+				<div id="wd-60cc8bc31196a" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
 																	<div class="info-svg-wrapper info-icon" style="width: 60px;height: 60px;"><svg version="1.1" id="trevel-infobox-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 94 75" style="enable-background:new 0 0 94 75;" xml:space="preserve">
-<path id="svg-6512" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
+<path id="svg-9884" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
 	l0,0C44,36.2,55.2,25,69,25z"/>
 <path id="img" style="fill:#74BFFE;" d="M77.8,24.9L73,40.1v7.5c0,3.6-2.9,6.5-6.5,6.4H6.5C2.9,54,0,51.1,0,47.6V27
 	c0-2.5,1.5-4.7,3.7-5.8L10,3.5c0.9-2.7,3.8-4.1,6.5-3.2l57.8,18.3C77,19.3,78.6,22.1,77.8,24.9C77.8,24.9,77.8,24.9,77.8,24.9z
@@ -288,14 +288,14 @@
 									</div>
 			</div>
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3e017e" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
+				<div id="wd-60cc8bc311e2b" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
 																	<div class="info-svg-wrapper info-icon" style="width: 60px;height: 60px;"><svg version="1.1" id="trevel-infobox-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 94 75" style="enable-background:new 0 0 94 75;" xml:space="preserve">
-<path id="svg-4595" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
+<path id="svg-2519" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
 	l0,0C44,36.2,55.2,25,69,25z"/>
 <path id="img" style="fill:#74BFFE;" d="M77.8,24.9L73,40.1v7.5c0,3.6-2.9,6.5-6.5,6.4H6.5C2.9,54,0,51.1,0,47.6V27
 	c0-2.5,1.5-4.7,3.7-5.8L10,3.5c0.9-2.7,3.8-4.1,6.5-3.2l57.8,18.3C77,19.3,78.6,22.1,77.8,24.9C77.8,24.9,77.8,24.9,77.8,24.9z
@@ -325,14 +325,14 @@
 									</div>
 			</div>
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3e060e" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
+				<div id="wd-60cc8bc3122e3" class=" cursor-pointer wd-info-box wd-wpb text-left box-icon-align-top box-style- color-scheme- wd-bg-none "  onclick="window.location.href=&quot;#&quot;"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
 																	<div class="info-svg-wrapper info-icon" style="width: 60px;height: 60px;"><svg version="1.1" id="trevel-infobox-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 94 75" style="enable-background:new 0 0 94 75;" xml:space="preserve">
-<path id="svg-3112" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
+<path id="svg-8853" style="fill:#FFD200;" d="M69,25L69,25c13.8,0,25,11.2,25,25l0,0c0,13.8-11.2,25-25,25l0,0c-13.8,0-25-11.2-25-25
 	l0,0C44,36.2,55.2,25,69,25z"/>
 <path id="img" style="fill:#74BFFE;" d="M77.8,24.9L73,40.1v7.5c0,3.6-2.9,6.5-6.5,6.4H6.5C2.9,54,0,51.1,0,47.6V27
 	c0-2.5,1.5-4.7,3.7-5.8L10,3.5c0.9-2.7,3.8-4.1,6.5-3.2l57.8,18.3C77,19.3,78.6,22.1,77.8,24.9C77.8,24.9,77.8,24.9,77.8,24.9z
@@ -362,7 +362,7 @@
 									</div>
 			</div>
 		</div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper">		
-		<div id="wd-60cc86d3e0c5a" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532355238124">
+		<div id="wd-60cc8bc31297d" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532355238124">
 			
 			<div class="liner-continer">
 				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-m" >How to find us</h4>
@@ -371,12 +371,12 @@
 			
 					</div>
 		
-					<link rel="stylesheet" id="wd-map-css" href="/https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/themes/woodmart/css/parts/el-map.min.css?ver=6.0.4" type="text/css" media="all" /> 						<div class="google-map-container " style="height:245px;" data-map-args='{"latitude":"43.7333300","longitude":"7.4166700","zoom":"15","mouse_zoom":"no","init_type":"page_load","init_offset":"100","elementor":false,"json_style":"[\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels.text\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels.text.fill\",\n        \"stylers\": [\n            {\n                \"saturation\": 36\n            },\n            {\n                \"color\": \"#333333\"\n            },\n            {\n                \"lightness\": 40\n            },\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels.text.stroke\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            },\n            {\n                \"color\": \"#ffffff\"\n            },\n            {\n                \"lightness\": 16\n            }\n        ]\n    },\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels.icon\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"administrative\",\n        \"elementType\": \"geometry.fill\",\n        \"stylers\": [\n            {\n                \"color\": \"#fefefe\"\n            },\n            {\n                \"lightness\": 20\n            }\n        ]\n    },\n    {\n        \"featureType\": \"administrative\",\n        \"elementType\": \"geometry.stroke\",\n        \"stylers\": [\n            {\n                \"color\": \"#fefefe\"\n            },\n            {\n                \"lightness\": 17\n            },\n            {\n                \"weight\": 1.2\n            }\n        ]\n    },\n    {\n        \"featureType\": \"landscape\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#f5f5f5\"\n            },\n            {\n                \"lightness\": 20\n            }\n        ]\n    },\n    {\n        \"featureType\": \"poi\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#f5f5f5\"\n            },\n            {\n                \"lightness\": 21\n            }\n        ]\n    },\n    {\n        \"featureType\": \"poi.park\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#dedede\"\n            },\n            {\n                \"lightness\": 21\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.highway\",\n        \"elementType\": \"geometry.fill\",\n        \"stylers\": [\n            {\n                \"color\": \"#74c0fe\"\n            },\n            {\n                \"lightness\": 17\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.highway\",\n        \"elementType\": \"geometry.stroke\",\n        \"stylers\": [\n            {\n                \"color\": \"#ffffff\"\n            },\n            {\n                \"lightness\": 29\n            },\n            {\n                \"weight\": 0.2\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.arterial\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#74c0fe\"\n            },\n            {\n                \"lightness\": 18\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.local\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#ffffff\"\n            },\n            {\n                \"lightness\": 16\n            }\n        ]\n    },\n    {\n        \"featureType\": \"transit\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#f2f2f2\"\n            },\n            {\n                \"lightness\": 19\n            }\n        ]\n    },\n    {\n        \"featureType\": \"water\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#e9e9e9\"\n            },\n            {\n                \"lightness\": 17\n            }\n        ]\n    }\n]","marker_icon":"\/wp-content\/themes\/woodmart\/inc\/admin\/assets\/images\/google-icon.png","marker_text_needed":"no","marker_text":"<h3 style=\"min-width:300px; text-align:center; margin:15px;\"><\/h3>","selector":"wd-map-id-60cc86d3e11d5"}'>
+					<link rel="stylesheet" id="wd-map-css" href="https://muhammadfuzail.github.io/ApptakTestDemoSite/wp-content/themes/woodmart/css/parts/el-map.min.css?ver=6.0.4" type="text/css" media="all" /> 						<div class="google-map-container " style="height:245px;" data-map-args='{"latitude":"43.7333300","longitude":"7.4166700","zoom":"15","mouse_zoom":"no","init_type":"page_load","init_offset":"100","elementor":false,"json_style":"[\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels.text\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels.text.fill\",\n        \"stylers\": [\n            {\n                \"saturation\": 36\n            },\n            {\n                \"color\": \"#333333\"\n            },\n            {\n                \"lightness\": 40\n            },\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels.text.stroke\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            },\n            {\n                \"color\": \"#ffffff\"\n            },\n            {\n                \"lightness\": 16\n            }\n        ]\n    },\n    {\n        \"featureType\": \"all\",\n        \"elementType\": \"labels.icon\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"administrative\",\n        \"elementType\": \"geometry.fill\",\n        \"stylers\": [\n            {\n                \"color\": \"#fefefe\"\n            },\n            {\n                \"lightness\": 20\n            }\n        ]\n    },\n    {\n        \"featureType\": \"administrative\",\n        \"elementType\": \"geometry.stroke\",\n        \"stylers\": [\n            {\n                \"color\": \"#fefefe\"\n            },\n            {\n                \"lightness\": 17\n            },\n            {\n                \"weight\": 1.2\n            }\n        ]\n    },\n    {\n        \"featureType\": \"landscape\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#f5f5f5\"\n            },\n            {\n                \"lightness\": 20\n            }\n        ]\n    },\n    {\n        \"featureType\": \"poi\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#f5f5f5\"\n            },\n            {\n                \"lightness\": 21\n            }\n        ]\n    },\n    {\n        \"featureType\": \"poi.park\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#dedede\"\n            },\n            {\n                \"lightness\": 21\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.highway\",\n        \"elementType\": \"geometry.fill\",\n        \"stylers\": [\n            {\n                \"color\": \"#74c0fe\"\n            },\n            {\n                \"lightness\": 17\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.highway\",\n        \"elementType\": \"geometry.stroke\",\n        \"stylers\": [\n            {\n                \"color\": \"#ffffff\"\n            },\n            {\n                \"lightness\": 29\n            },\n            {\n                \"weight\": 0.2\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.arterial\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#74c0fe\"\n            },\n            {\n                \"lightness\": 18\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.local\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#ffffff\"\n            },\n            {\n                \"lightness\": 16\n            }\n        ]\n    },\n    {\n        \"featureType\": \"transit\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#f2f2f2\"\n            },\n            {\n                \"lightness\": 19\n            }\n        ]\n    },\n    {\n        \"featureType\": \"water\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"color\": \"#e9e9e9\"\n            },\n            {\n                \"lightness\": 17\n            }\n        ]\n    }\n]","marker_icon":"https:\/\/muhammadfuzail.github.io\/ApptakTestDemoSite\/wp-content\/themes\/woodmart\/inc\/admin\/assets\/images\/google-icon.png","marker_text_needed":"no","marker_text":"<h3 style=\"min-width:300px; text-align:center; margin:15px;\"><\/h3>","selector":"wd-map-id-60cc8bc312f3e"}'>
 
 								
 								
 				<div class="wd-google-map-wrapper wd-fill">
-					<div id="wd-map-id-60cc86d3e11d5" class="wd-google-map without-content wd-fill"></div>
+					<div id="wd-map-id-60cc8bc312f3e" class="wd-google-map without-content wd-fill"></div>
 				</div>
 
 							</div>
@@ -391,7 +391,7 @@
 		</div>
 	</div>
 		
-		<div id="wd-60cc86d3e171d" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532355352602">
+		<div id="wd-60cc8bc3134ec" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default wd-width-100 text-left vc_custom_1532355352602">
 			
 			<div class="liner-continer">
 				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-m" >Ask a question</h4>
@@ -403,15 +403,15 @@
 		[contact-form-7]</div></div></div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/crimson-palms-hotel/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/crimson-palms-hotel/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Smart watches wood edition</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/smart-watches-wood-edition/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/smart-watches-wood-edition/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/smart-watches-wood-edition/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/smart-watches-wood-edition/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 14 Jun 2017 08:22:56 +0000</pubDate>
@@ -430,12 +430,12 @@ Netus nisi volutpat donec condimentum nunc eu sem odio condimentum hendrerit nis
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1490694541710"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-content-top vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1490695008312"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3e54f7" class=" wd-info-box wd-wpb text-center box-icon-align-top box-style- color-scheme- wd-bg-none vc_custom_1497428277136"  >
+				<div id="wd-60cc8bc3170b9" class=" wd-info-box wd-wpb text-center box-icon-align-top box-style- color-scheme- wd-bg-none vc_custom_1497428277136"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
-																	<div class="info-svg-wrapper info-icon" style="width: 50px;height: 50px;"><svg version="1.1" id="svg-4121" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+																	<div class="info-svg-wrapper info-icon" style="width: 50px;height: 50px;"><svg version="1.1" id="svg-5516" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
 <g>
 	<path d="M30,0C13.458,0,0,13.458,0,30s13.458,30,30,30s30-13.458,30-30S46.542,0,30,0z M30,58C14.561,58,2,45.439,2,30
@@ -490,12 +490,12 @@ Netus nisi volutpat donec condimentum nunc eu sem odio condimentum hendrerit nis
 									</div>
 			</div>
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1490695011353"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3e5f35" class=" wd-info-box wd-wpb text-center box-icon-align-top box-style- color-scheme- wd-bg-none vc_custom_1497428301728"  >
+				<div id="wd-60cc8bc3179ff" class=" wd-info-box wd-wpb text-center box-icon-align-top box-style- color-scheme- wd-bg-none vc_custom_1497428301728"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
-																	<div class="info-svg-wrapper info-icon" style="width: 50px;height: 50px;"><svg version="1.1" id="svg-3615" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+																	<div class="info-svg-wrapper info-icon" style="width: 50px;height: 50px;"><svg version="1.1" id="svg-8805" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
 <g>
 	<path d="M30,0C13.458,0,0,13.458,0,30s13.458,30,30,30s30-13.458,30-30S46.542,0,30,0z M30,58C14.561,58,2,45.439,2,30
@@ -550,12 +550,12 @@ Netus nisi volutpat donec condimentum nunc eu sem odio condimentum hendrerit nis
 									</div>
 			</div>
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1490694847874"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3e64aa" class=" wd-info-box wd-wpb text-center box-icon-align-top box-style- color-scheme- wd-bg-none vc_custom_1497428311014"  >
+				<div id="wd-60cc8bc317f21" class=" wd-info-box wd-wpb text-center box-icon-align-top box-style- color-scheme- wd-bg-none vc_custom_1497428311014"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
-																	<div class="info-svg-wrapper info-icon" style="width: 50px;height: 50px;"><svg version="1.1" id="svg-1360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+																	<div class="info-svg-wrapper info-icon" style="width: 50px;height: 50px;"><svg version="1.1" id="svg-2378" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
 <g>
 	<path d="M30,0C13.458,0,0,13.458,0,30s13.458,30,30,30s30-13.458,30-30S46.542,0,30,0z M30,58C14.561,58,2,45.439,2,30
@@ -610,12 +610,12 @@ Netus nisi volutpat donec condimentum nunc eu sem odio condimentum hendrerit nis
 									</div>
 			</div>
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1490694856753"><div class="wpb_wrapper">			<div class="info-box-wrapper ">
-				<div id="wd-60cc86d3e69ae" class=" wd-info-box wd-wpb text-center box-icon-align-top box-style- color-scheme- wd-bg-none vc_custom_1497428319982"  >
+				<div id="wd-60cc8bc3183f9" class=" wd-info-box wd-wpb text-center box-icon-align-top box-style- color-scheme- wd-bg-none vc_custom_1497428319982"  >
 											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 							<div class="info-box-icon">
 
 							
-																	<div class="info-svg-wrapper info-icon" style="width: 50px;height: 50px;"><svg version="1.1" id="svg-6261" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+																	<div class="info-svg-wrapper info-icon" style="width: 50px;height: 50px;"><svg version="1.1" id="svg-8671" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
 <g>
 	<path d="M30,0C13.458,0,0,13.458,0,30s13.458,30,30,30s30-13.458,30-30S46.542,0,30,0z M30,58C14.561,58,2,45.439,2,30
@@ -672,7 +672,7 @@ Netus nisi volutpat donec condimentum nunc eu sem odio condimentum hendrerit nis
 		</div></div></div></div></div></div></div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/smart-watches-wood-edition/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/smart-watches-wood-edition/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

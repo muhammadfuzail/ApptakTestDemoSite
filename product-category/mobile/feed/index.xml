@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mobile &#8211; Apptakdemo1</title>
-	<atom:link href="/https://muhammadfuzail.github.io/ApptakTestDemoSite/product-category/mobile/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
+	<atom:link href="https://muhammadfuzail.github.io/ApptakTestDemoSite/product-category/mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 17 Jun 2021 08:26:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Tecno Pouvior 4 3GB/32GB</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-pouvior-4-3gb-32gb/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-pouvior-4-3gb-32gb/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-pouvior-4-3gb-32gb/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-pouvior-4-3gb-32gb/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 08:24:19 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7623</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7623</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -153,19 +153,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-pouvior-4-3gb-32gb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-pouvior-4-3gb-32gb/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Infinix Hot 10 Play X688B 4GB/64GB</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/infinix-hot-10-play-x688b-4gb-64gb/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/infinix-hot-10-play-x688b-4gb-64gb/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/infinix-hot-10-play-x688b-4gb-64gb/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/infinix-hot-10-play-x688b-4gb-64gb/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 08:18:48 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7619</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7619</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -289,19 +289,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/infinix-hot-10-play-x688b-4gb-64gb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/infinix-hot-10-play-x688b-4gb-64gb/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tecno Spark 6 Go KE5 2GB/32GB</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-spark-6-go-ke5-2gb-32gb/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-spark-6-go-ke5-2gb-32gb/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-spark-6-go-ke5-2gb-32gb/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-spark-6-go-ke5-2gb-32gb/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 08:15:13 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7617</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7617</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -428,19 +428,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-spark-6-go-ke5-2gb-32gb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-spark-6-go-ke5-2gb-32gb/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Redmi 9C 3GB/64GB</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redmi-9c-3gb-64gb/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redmi-9c-3gb-64gb/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redmi-9c-3gb-64gb/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redmi-9c-3gb-64gb/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 08:12:42 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7615</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7615</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -564,19 +564,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redmi-9c-3gb-64gb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redmi-9c-3gb-64gb/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>itel Muzik 110</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/itel-muzik-110/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/itel-muzik-110/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/itel-muzik-110/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/itel-muzik-110/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 08:08:11 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7613</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7613</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -627,19 +627,19 @@
 										<content:encoded><![CDATA[<h5 class="fw_medium m_bottom_15">Specifications of <span id="ctl00_ContentPlaceHolder1_lbl_products_name_spec">itel Muzik 110</span></h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/itel-muzik-110/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/itel-muzik-110/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Samsung Galaxy A31 4GB/128GB</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/samsung-galaxy-a31-4gb-128gb/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/samsung-galaxy-a31-4gb-128gb/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/samsung-galaxy-a31-4gb-128gb/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/samsung-galaxy-a31-4gb-128gb/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 08:05:45 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7611</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7611</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -760,19 +760,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/samsung-galaxy-a31-4gb-128gb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/samsung-galaxy-a31-4gb-128gb/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tecno CE8 Camon 16 Pro 6GB/128GB</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-ce8-camon-16-pro-6gb-128gb/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-ce8-camon-16-pro-6gb-128gb/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-ce8-camon-16-pro-6gb-128gb/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-ce8-camon-16-pro-6gb-128gb/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:59:15 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7608</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7608</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -896,19 +896,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-ce8-camon-16-pro-6gb-128gb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tecno-ce8-camon-16-pro-6gb-128gb/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Xiaomi Mi 10T 8GB/128GB</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/xiaomi-mi-10t-8gb-128gb/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/xiaomi-mi-10t-8gb-128gb/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/xiaomi-mi-10t-8gb-128gb/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/xiaomi-mi-10t-8gb-128gb/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:49:15 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7603</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7603</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -1029,7 +1029,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/xiaomi-mi-10t-8gb-128gb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/xiaomi-mi-10t-8gb-128gb/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

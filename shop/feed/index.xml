@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Products &#8211; Apptakdemo1</title>
-	<atom:link href="/https://muhammadfuzail.github.io/ApptakTestDemoSite/shop/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
+	<atom:link href="https://muhammadfuzail.github.io/ApptakTestDemoSite/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 17 Jun 2021 19:10:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Magnatec 10W 40 SN 3L</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/magnatec-10w-40-sn-3l/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/magnatec-10w-40-sn-3l/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/magnatec-10w-40-sn-3l/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/magnatec-10w-40-sn-3l/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 19:08:21 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7668</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7668</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -83,19 +83,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/magnatec-10w-40-sn-3l/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/magnatec-10w-40-sn-3l/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>GTX Essential 20w50 10L</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-essential-20w50-10l/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-essential-20w50-10l/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-essential-20w50-10l/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-essential-20w50-10l/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 19:06:43 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7666</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7666</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -154,19 +154,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-essential-20w50-10l/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-essential-20w50-10l/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>GTX 20W50 SL/CF 1L</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-1l/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-1l/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-1l/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-1l/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 19:05:06 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7664</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7664</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -225,19 +225,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-1l/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-1l/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>GTX 20W50 SL/ CF 3L</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-3l/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-3l/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-3l/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-3l/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 19:02:48 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7662</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7662</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -296,19 +296,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-3l/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/gtx-20w50-sl-cf-3l/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Castrol Magnatec 5W30 3L</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-5w30-3l/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-5w30-3l/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-5w30-3l/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-5w30-3l/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 19:00:48 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7661</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7661</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -363,19 +363,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-5w30-3l/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-5w30-3l/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Castrol Magnatec 10W 40 SN 4L NEW</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-10w-40-sn-4l-new/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-10w-40-sn-4l-new/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-10w-40-sn-4l-new/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-10w-40-sn-4l-new/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 18:58:22 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7659</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7659</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -432,19 +432,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-10w-40-sn-4l-new/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/castrol-magnatec-10w-40-sn-4l-new/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>ACTIV ESSENTIAL 20W 50 0.7L</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-50-0-7l/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-50-0-7l/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-50-0-7l/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-50-0-7l/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 18:56:44 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7657</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7657</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -503,19 +503,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-50-0-7l/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-50-0-7l/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Activ Essential 20W 40 0.7L</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-40-0-7l/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-40-0-7l/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-40-0-7l/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-40-0-7l/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 18:53:05 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7655</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7655</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -574,19 +574,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-40-0-7l/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/activ-essential-20w-40-0-7l/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Redoxon Tablets</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 18:05:06 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7646</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7646</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -655,19 +655,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rennie Tablets</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 18:03:21 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7644</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7644</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -736,7 +736,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

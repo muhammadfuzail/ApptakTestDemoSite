@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pharma &#8211; Apptakdemo1</title>
-	<atom:link href="/https://muhammadfuzail.github.io/ApptakTestDemoSite/product-category/pharma/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
+	<atom:link href="https://muhammadfuzail.github.io/ApptakTestDemoSite/product-category/pharma/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muhammadfuzail.github.io/ApptakTestDemoSite</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 17 Jun 2021 18:06:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Redoxon Tablets</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 18:05:06 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7646</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7646</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -95,19 +95,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/redoxon-tablets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rennie Tablets</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 18:03:21 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7644</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7644</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -176,19 +176,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rennie-tablets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Zink Tablets 60s</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/zink-tablets-60s/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/zink-tablets-60s/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/zink-tablets-60s/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/zink-tablets-60s/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 18:01:34 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7641</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7641</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -257,19 +257,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/zink-tablets-60s/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/zink-tablets-60s/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rose-C Tablets 40s</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rose-c-tablets-40s/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rose-c-tablets-40s/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rose-c-tablets-40s/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rose-c-tablets-40s/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 17:58:49 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7639</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7639</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -341,19 +341,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rose-c-tablets-40s/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/rose-c-tablets-40s/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Berocca Tablets Orange</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/berocca-tablets-orange/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/berocca-tablets-orange/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/berocca-tablets-orange/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/berocca-tablets-orange/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 17:57:16 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7637</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7637</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -422,19 +422,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/berocca-tablets-orange/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/berocca-tablets-orange/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tosril Syrup 120ml</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tosril-syrup-120ml/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tosril-syrup-120ml/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tosril-syrup-120ml/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tosril-syrup-120ml/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 17:55:16 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7635</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7635</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -503,19 +503,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tosril-syrup-120ml/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/tosril-syrup-120ml/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>D-One Tablets 70s</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/d-one-tablets-70s/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/d-one-tablets-70s/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/d-one-tablets-70s/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/d-one-tablets-70s/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 17:53:35 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7633</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7633</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -587,19 +587,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/d-one-tablets-70s/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/d-one-tablets-70s/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nutriful Tablets 40s</title>
-		<link>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/nutriful-tablets-40s/</link>
-					<comments>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/nutriful-tablets-40s/#respond</comments>
+		<link>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/nutriful-tablets-40s/</link>
+					<comments>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/nutriful-tablets-40s/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 17:46:16 +0000</pubDate>
-				<guid isPermaLink="false">/https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7630</guid>
+				<guid isPermaLink="false">https://muhammadfuzail.github.io/ApptakTestDemoSite/?post_type=product&#038;p=7630</guid>
 
 					<description><![CDATA[<table class="description_table m_bottom_10 m_left_40">
 <tbody>
@@ -668,7 +668,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://muhammadfuzail.github.io/ApptakTestDemoSite/product/nutriful-tablets-40s/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadfuzail.github.io/ApptakTestDemoSite/product/nutriful-tablets-40s/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
