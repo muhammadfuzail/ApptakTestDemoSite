@@ -6,11 +6,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /mygit/ApptakDemo1/
+RewriteBase /mygit/ApptakTestDemoSite/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /mygit/ApptakDemo1/index.php [L]
+RewriteRule . /mygit/ApptakTestDemoSite/index.php [L]
 </IfModule>
 
 # END WordPress
